@@ -25,6 +25,11 @@ elToggleTheme.addEventListener("click", () => {
   state.dark = !state.dark;
   document.documentElement.style.setProperty("--bg", state.dark ? "#0b1220" : "#f8fafc");
   document.documentElement.style.setProperty("--text", state.dark ? "#e2e8f0" : "#0f172a");
+  document.documentElement.style.setProperty("--button-bg", state.dark ? "#1e293b" : "#e2e8f0");
+  document.documentElement.style.setProperty("--button-text", state.dark ? "#e2e8f0" : "#0f172a");
+  document.documentElement.style.setProperty("--card-bg", state.dark ? "#1e293b" : "#ffffff");
+
+
   elTitle.textContent = state.dark ? "Mini App – Modo Escuro" : "Mini App – GitFlow";
   elToggleTheme.setAttribute("aria-pressed", String(state.dark));
 });
