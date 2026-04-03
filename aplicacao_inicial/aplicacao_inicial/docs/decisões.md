@@ -27,3 +27,5 @@ Registre aqui:
 -Decisão 3-style.css: No style.css nos decidimos manter a cor verde do aluno B(Junior), devido que todos os outros conflitos foram resolvidos com as mudanças do aluno C(pedro) e nos não tinhamos uma preferencia de cor.
 - **Quem resolveu** (A/B/C) e **data**.
 . Todos os merges e conflitos foram resolvidos pelo aluno A(lucas).
+- Data de resolução: 02/04/2026
+
