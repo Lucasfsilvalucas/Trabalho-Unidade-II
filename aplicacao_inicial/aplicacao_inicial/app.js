@@ -18,7 +18,7 @@ elIncrement.addEventListener("click", () => {
 
 elDecrement.addEventListener("click", () => {
   state.count -= 1;
-  updateCount(state.count);
+  setCount(state.count);
 });
 
 elToggleTheme.addEventListener("click", () => {

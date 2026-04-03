@@ -18,4 +18,6 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno A: Lucas Fidelis da Silva - 2422728 (owner).
+-Aluno B: Raimundo Lima Lopes Júnior - 2526503.
+-Aluno C: Pedro Tomé Saldanha Lopes - 2512876.
