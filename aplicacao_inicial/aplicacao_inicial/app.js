@@ -28,6 +28,7 @@ elToggleTheme.addEventListener("click", () => {
   document.documentElement.style.setProperty("--button-bg", state.dark ? "#1e293b" : "#e2e8f0");
   document.documentElement.style.setProperty("--button-text", state.dark ? "#e2e8f0" : "#0f172a");
   document.documentElement.style.setProperty("--card-bg", state.dark ? "#1e293b" : "#ffffff");
+  elTitle.textContent = state.dark ? "Contador - Modo Escuro" : "Contador";
 
 
   elTitle.textContent = state.dark ? "Mini App – Modo Escuro" : "Mini App – GitFlow";
